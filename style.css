@@ -5,34 +5,8 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color:rgb(180, 77, 77);
+    background-color:rgba(201, 190, 190, 0.897);
 }
-
-/* .login-container {
-    background-color: white;
-    padding: 2em;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    width: 300px;
-    text-align: center;
-}
-
-input{
-    width: 100%;
-    padding: 0.5em;
-    margin: 0.5em 0;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-}
-
-button {
-    background-color: #28a745;
-    color: white;
-    border: none;
-    padding: 0.5em 1em;
-    cursor: pointer;
-    width: 100%;
-} */
 
 #error-message {
     color: red;
